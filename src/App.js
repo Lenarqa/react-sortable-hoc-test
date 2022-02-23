@@ -32,8 +32,7 @@ function App() {
     </div>
   ));
 
-  const onSortEnd = ({ oldIndex, newIndex, collection }) => {
-    console.log(collection);
+  const onSortEnd = ({ oldIndex, newIndex }) => {
     let array = arrayMoveImmutable(state, oldIndex, newIndex);
     for (let i = 0; i < array.length; i++) {
       array[i].position = i;
