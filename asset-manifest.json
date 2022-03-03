@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sortable-hoc-test/static/css/main.b7023b85.css",
+    "main.js": "/react-sortable-hoc-test/static/js/main.a4604898.js",
+    "index.html": "/react-sortable-hoc-test/index.html",
+    "main.b7023b85.css.map": "/react-sortable-hoc-test/static/css/main.b7023b85.css.map",
+    "main.a4604898.js.map": "/react-sortable-hoc-test/static/js/main.a4604898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7023b85.css",
+    "static/js/main.a4604898.js"
+  ]
+}
